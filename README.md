@@ -1,2 +1,2 @@
 # EigenF-and-FischerF
-A python implementation to compare PCA and Fischer Linear Discriminant Analysis
+A python implementation to understand using PCA to perform unsupervised classification and Fischer Linear Discriminant Analysis to perform supervised classification.
